@@ -1,36 +1,36 @@
 # ATM - C++
 
-Acesta este un proiect simplu de tip consolă, realizat în limbajul C++. Programul permite utilizatorului să folosească un ATM virtual care are 3 funcționalități principale.
+Acesta este un proiect simplu de tip consola, realizat in limbajul C++. Programul permite utilizatorului sa foloseasca un ATM virtual care are 3 functionalitati principale.
 
 ---
 
-## Funcționalități disponibile
+## Functionalitati disponibile
 
-- Vizualizare sold
-- Depunere
+- Vizualizare sold  
+- Depunere  
 - Retragere
 
 ---
 
-## Cum se folosește
+## Cum se foloseste
 
-1. Compilează fișierul `.cpp` cu un compilator C++ (ex: `g++ ATM.cpp -o ATM`)
-2. Rulează executabilul: `./ATM` (Linux/macOS) sau `ATM.exe` (Windows)
-3. Urmează instrucțiunile din consolă
+1. Compileaza fisierul `.cpp` cu un compilator C++ (ex: `g++ ATM.cpp -o ATM`)
+2. Ruleaza executabilul: `./ATM` (Linux/macOS) sau `ATM.exe` (Windows)
+3. Urmeaza instructiunile din consola
 
 ---
 
 ## Structura proiectului
 
-- `ATM.cpp` – codul sursă principal
-- `README.md` – acest fișier explicativ
+- `ATM.cpp` – codul sursa principal  
+- `README.md` – acest fisier explicativ
 
 ---
 
 ## Versiuni
 
-- 🇷🇴 Română – complet funcțională
-- 🇬🇧 Engleză – complet funcțională
+- 🇷🇴 Romana – complet functionala  
+- 🇬🇧 Engleza – complet functionala
 
 ---
 
@@ -64,7 +64,7 @@ This is a simple console-based project written in C++. The program allows the us
 
 ## Project Structure
 
-- `ATM.cpp` – main source code
+- `ATM.cpp` – main source code  
 - `README.md` – this explanatory file
 
 ---
@@ -72,3 +72,4 @@ This is a simple console-based project written in C++. The program allows the us
 ## Author
 
 Project made by **Sandu Teodor-Robert**
+
